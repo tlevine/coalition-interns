@@ -1,0 +1,20 @@
+{
+  "author": "Thomas Levine (thomaslevine.com)",
+  "name": "coalition-interns",
+  "description": "Remind service providers to update their information",
+  "version": "0.0.0",
+  "homepage": "http://thomaslevine.com/",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tlevine/coalition-interns.git"
+  },
+  "engines": {
+    "node": "~0.8.16"
+  },
+  "dependencies": {
+    "nodemailer": "~0.3.37"
+  },
+  "devDependencies": {
+  },
+  "optionalDependencies": {}
+}
